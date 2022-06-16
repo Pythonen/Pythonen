@@ -3,7 +3,7 @@
 
 <img align="right" src="https://github.com/Pythonen/Pythonen/blob/main/mex3.png" style="border-radius:15%;" />
 
-I am Aleksi, 21-years old, currently pursuing my master's degree majoring in computer science from The Univesity of Jyväskylä. 
+I am Aleksi, 22-years old, currently pursuing my master's degree majoring in computer science from The Univesity of Jyväskylä. 
 I am always open to collaborating on projects and innovative/disruptive ideas. 
 Find out more about me & feel free to connect with me! 
 
