@@ -3,7 +3,7 @@
 
 <img align="right" src="https://github.com/Pythonen/Pythonen/blob/main/mex3.png" style="border-radius:15%;" />
 
-I am Aleksi, 22-years old, currently pursuing my master's degree majoring in Software Engineering from Aalto University School of Science. 
+I am Aleksi, 23-years old, currently pursuing my master's degree majoring in Software Engineering from Aalto University School of Science. 
 I am always open to collaborating on projects and innovative/disruptive ideas. 
 Find out more about me & feel free to connect with me! 
 
