@@ -3,7 +3,7 @@
 
 <img align="right" src="https://github.com/Pythonen/Pythonen/blob/main/mex3.png" style="border-radius:15%;" />
 
-I am Aleksi, 24-years old, software developer and M&A consultant.
+I am Aleksi, 24-years old, software developer and Tech M&A consultant.
 I am always open to collaborating on projects and innovative/disruptive ideas. 
 Find out more about me & feel free to connect with me! 
 
